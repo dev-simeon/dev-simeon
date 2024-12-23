@@ -43,7 +43,7 @@ A web-based application for managing employee records, payroll, departmental ass
 ## 🌐 Connect with Me
 
 - 📧 **Email**: [omomowosymeon45@gmail.com](mailto:omomowosymeon45@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/omomowo-symeon](https://www.linkedin.com/in/omomowo-symeon)
+- 🔗 **LinkedIn**: [linkedin.com/in/omomowo-symeon](https://www.linkedin.com/in/omomowo-symeon-ba05502a8/)
 - 💻 **GitHub**: [github.com/dev-simeon](https://github.com/dev-simeon)
 
 Let’s build something amazing together!
