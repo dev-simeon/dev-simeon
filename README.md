@@ -42,7 +42,7 @@ A web-based application for managing employee records, payroll, departmental ass
 
 ## 🌐 Connect with Me
 
-- 📧 **Email**: [omomowo.simeon@example.com](mailto:omomowo.simeon@example.com)
+- 📧 **Email**: [omomowosymeon45@gmail.com](mailto:omomowosymeon45@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/omomowo-symeon](https://www.linkedin.com/in/omomowo-symeon)
 - 💻 **GitHub**: [github.com/dev-simeon](https://github.com/dev-simeon)
 
