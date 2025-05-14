@@ -48,18 +48,6 @@ A comprehensive system designed to manage financial records and track dues colle
 
 ---
 
-### 🏢 [EmployeeManagementSystem - Employee Records and Payroll Management](https://github.com/dev-simeon/EmployeeManagementSystem)
-A web-based application for managing employee records, payroll, departmental assignments, and performance tracking.
-
-**Technologies Used**:
-- ASP.Net Core Razor Pages, C#, Entity Framework Core, SQL Server
-
-**Achievements**:
-- Reduced manual workflows and errors
-- Enhanced payroll accuracy and efficiency
-
----
-
 ## 📊 Top Repositories
 
 Here are some of my top repositories showcasing my work:
@@ -67,8 +55,8 @@ Here are some of my top repositories showcasing my work:
 | **Repository** | **Description** | **Technologies** |
 |----------------|-----------------|------------------|
 | [CollectGo](https://github.com/dev-simeon/CollectGo) | Financial records & dues management system | Blazor WebAssembly, .NET, EF Core |
-| [EmployeeManagementSystem](https://github.com/dev-simeon/EmployeeManagementSystem) | Employee records & payroll management | ASP.Net Core, EF Core, SQL Server |
-| [Portfolio](https://github.com/dev-simeon/Portfolio) | My personal portfolio website | HTML, CSS, JavaScript |
+| [Gibs7.Core](https://github.com/dejisys/Gibs7.Core) | Core functionalities for Gibs7 platform | C#, TSQL |
+| [F4Flats.ApiService](https://github.com/iDevWorks/F4Flats.ApiService) | A RESTful API service for F4 Flats | C#, TSQL |
 
 ---
 
