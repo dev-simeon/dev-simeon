@@ -2,43 +2,75 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/dev-simeon?style=social) ![GitHub stars](https://img.shields.io/github/stars/dev-simeon?style=social)
 
+---
+
 ## 👨‍💻 About Me
 
-Hi there! I'm Simeon, a passionate and self-taught web developer with over three years of professional experience. My journey in tech has been all about designing scalable web applications, building robust APIs, and solving complex business challenges with innovative solutions. I specialize in the .NET ecosystem, particularly C#, Entity Framework Core, Razor Pages, and Blazor WebAssembly.
+Hello! I'm **Simeon**, a passionate and self-taught **Web Developer** with over **three years of professional experience**. My journey in technology revolves around designing **scalable web applications** and building **robust software solutions**.
 
-I thrive on collaboration and love working with cross-functional teams to deliver high-quality software that aligns with organizational goals. Beyond coding, I’m always eager to learn, adapt, and explore new technologies to stay ahead in this fast-evolving field.
+I thrive in **collaborative environments**, working with cross-functional teams to deliver high-quality software that exceeds expectations. Beyond coding, I’m constantly **learning**, **adapting**, and **exploring** new technologies to refine my skills.
 
-## 🔧 Technical Skills
+---
 
-- 🖥️ **Programming & Frameworks**: .NET, C#, EF Core, Razor Pages, Blazor WebAssembly, JavaScript
-- 🛠️ **Tools & Platforms**: Git, Azure
-- 🗄️ **Database & API Development**: SQL Server, MongoDB, RESTful APIs
-- ⚙️ **Additional Skills**: Performance optimization, strategic problem-solving, collaborative teamwork
+## 💡 Technical Skills
+
+### 🖥️ Programming & Frameworks
+- **Languages**: C#, JavaScript
+- **Frameworks**: .NET, EF Core, Razor Pages, Blazor WebAssembly
+
+### 🛠️ Tools & Platforms
+- **Version Control**: Git
+- **Cloud Platforms**: Azure
+
+### 🗄️ Database & API Development
+- **Databases**: SQL Server, MongoDB
+- **API Development**: RESTful APIs
+
+### ⚙️ Additional Skills
+- Performance Optimization
+- Strategic Problem-Solving
+- Collaborative Teamwork
+
+---
 
 ## 🌟 Key Projects
 
-### 1. CollectGo - Financial Records and Dues Management System
-
+### 🚀 [CollectGo - Financial Records and Dues Management System](https://github.com/dev-simeon/CollectGo)
 A comprehensive system designed to manage financial records and track dues collected by association members.
 
 **Technologies Used**:
-- 💻 **API**: C#, .NET Web API, EF Core, SQL Server
+- 💻 **Backend**: C#, .NET Web API, EF Core, SQL Server
 - 🌐 **Frontend**: Blazor WebAssembly Framework
 
-**Results**:
+**Achievements**:
 - Improved financial record accuracy
 - Streamlined financial operations for associations
 
-### 2. EmployeeManagementSystem - Employee Records and Payroll Management
+---
 
+### 🏢 [EmployeeManagementSystem - Employee Records and Payroll Management](https://github.com/dev-simeon/EmployeeManagementSystem)
 A web-based application for managing employee records, payroll, departmental assignments, and performance tracking.
 
 **Technologies Used**:
 - ASP.Net Core Razor Pages, C#, Entity Framework Core, SQL Server
 
-**Results**:
+**Achievements**:
 - Reduced manual workflows and errors
 - Enhanced payroll accuracy and efficiency
+
+---
+
+## 📊 Top Repositories
+
+Here are some of my top repositories showcasing my work:
+
+| **Repository** | **Description** | **Technologies** |
+|----------------|-----------------|------------------|
+| [CollectGo](https://github.com/dev-simeon/CollectGo) | Financial records & dues management system | Blazor WebAssembly, .NET, EF Core |
+| [EmployeeManagementSystem](https://github.com/dev-simeon/EmployeeManagementSystem) | Employee records & payroll management | ASP.Net Core, EF Core, SQL Server |
+| [Portfolio](https://github.com/dev-simeon/Portfolio) | My personal portfolio website | HTML, CSS, JavaScript |
+
+---
 
 ## 🌐 Connect with Me
 
@@ -46,4 +78,6 @@ A web-based application for managing employee records, payroll, departmental ass
 - 🔗 **LinkedIn**: [linkedin.com/in/omomowo-symeon](https://www.linkedin.com/in/omomowo-symeon-ba05502a8/)
 - 💻 **GitHub**: [github.com/dev-simeon](https://github.com/dev-simeon)
 
-Let’s build something amazing together!
+---
+
+### ✨ Let's collaborate and build something amazing together!
